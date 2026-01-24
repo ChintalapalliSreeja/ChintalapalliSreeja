@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/sreeja-chintalapalli/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://chintalapallisreeja.github.io/">
+  <a href="https://chintalapallisreeja.github.io/sreeja-chintalapalli/">
     <img src="https://img.shields.io/badge/Open%20Page-181717?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
