@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi, I'm Chintalapalli Sreeja 👋</h1>
 
 <h3 align="center">Generative AI Engineer | RAG | LLMs | LangChain | LangGraph | Python</h3>
