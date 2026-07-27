@@ -177,42 +177,12 @@
 <h2>⚙️ Technical Skills</h2>
 
 <b>Generative AI:</b> LLMs, RAG, Prompt Engineering, AI Agents, Tool Calling, Function Calling
-
-<br><br>
-
 <b>Frameworks:</b> LangChain, LangGraph, FastAPI, Streamlit
-
-<br><br>
-
 <b>Vector Databases:</b> FAISS, ChromaDB
-
-<br><br>
-
 <b>AI Concepts:</b> Embeddings, Semantic Search, Vector Similarity, Chunking, Retrieval
-
-<br><br>
-
 <b>Machine Learning:</b> Scikit-learn, Pandas, NumPy, TF-IDF, Cosine Similarity
-
-<br><br>
-
 <b>Programming:</b> Python
-
-<br><br>
-
 <b>Developer Tools:</b> Git, GitHub, Docker, VS Code
-
----
-
-<h2>📊 GitHub Statistics</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChintalapalliSreeja&show_icons=true&theme=dark" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChintalapalliSreeja&layout=compact&theme=dark" width="40%" />
-
-</p>
 
 ---
 
