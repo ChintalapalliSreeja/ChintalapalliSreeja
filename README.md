@@ -1,87 +1,239 @@
+```html
 <h1 align="center">Hi, I'm Chintalapalli Sreeja 👋</h1>
+
+<h3 align="center">Generative AI Engineer | RAG | LLMs | LangChain | LangGraph | Python</h3>
+
+<p align="center">
+  Passionate about building intelligent AI applications using Large Language Models, 
+  Retrieval-Augmented Generation, AI Agents, and modern Generative AI technologies.
+</p>
 
 <p align="center">
   <a href="mailto:chsreeja2710@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/sreeja-chintalapalli/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://github.com/ChintalapalliSreeja">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
   <a href="https://chintalapallisreeja.github.io/sreeja-chintalapalli/">
-    <img src="https://img.shields.io/badge/Open%20Page-181717?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
+---
+
 <table>
-  <tr>
-    <td width="55%">
-      <h3>👩‍💻 About Me</h3>
-      <ul>
-        <li>🎓 B.Tech Computer Science (Data Science) Graduate</li>
-        <li>💡 Focused on Software Development & AI/ML</li>
-        <li>🧠 Strong foundation in Python, Java, REST APIs & Databases</li>
-        <li>⚙️ Familiar with SDLC, OOP, and testing fundamentals</li>
-        <li>📫 Reach me at: <b>chsreeja2710@gmail.com</b></li>
-        <li>📍 Hyderabad, Telangana, India</li>
-      </ul>
-      <h3>💼 Experience</h3>
-      <ul>
-        <li>
-          <b>Ei Systems Pvt Ltd — Data Science Intern (Remote)</b><br/>
-          <small>May 2024 – July 2024</small>
-          <ul>
-            <li>Worked on real-world datasets using Python and SQL</li>
-            <li>Assisted in building, testing, and validating data pipelines</li>
-            <li>Collaborated with senior engineers on analytical tasks</li>
-          </ul>
-        </li>
-      </ul>
-      <h3>🚀 Projects</h3>
-      <ul>
-        <li>
-          <b>AI-Powered Course Recommendation System</b> (2024–2025)
-          <ul>
-            <li>Built using Python with TF-IDF & cosine similarity</li>
-            <li>Designed REST APIs and managed MySQL database</li>
-          </ul>
-        </li>
-        <li>
-          <b>Asset Management System (Full-Stack)</b> (2024)
-          <ul>
-            <li>Developed using Django & MySQL</li>
-            <li>Implemented backend services and frontend interfaces</li>
-          </ul>
-        </li>
-        <li>
-          <b>Chronic Disease Prediction</b> (2024–2025)
-          <ul>
-            <li>Built ML models with data preprocessing & evaluation</li>
-            <li>Performed feature selection and result analysis</li>
-          </ul>
-        </li>
-      </ul>
-      <h3>🧠 Skills & Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-      </p>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/4149/4149678.png" width="70%" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=ChintalapalliSreeja&show_icons=true&theme=dark" width="90%" />
-    </td>
-  </tr>
+<tr>
+
+<td width="55%" valign="top">
+
+<h2>👩‍💻 About Me</h2>
+
+<ul>
+  <li>🎓 B.Tech in Computer Science (Data Science) Graduate</li>
+  <li>🤖 Aspiring Generative AI Engineer</li>
+  <li>🧠 Building applications using LLMs, RAG, LangChain & LangGraph</li>
+  <li>🔍 Interested in Semantic Search, Embeddings & Vector Databases</li>
+  <li>⚡ Building AI backends using Python & FastAPI</li>
+  <li>🛠️ Exploring AI Agents, Tool Calling & advanced RAG workflows</li>
+  <li>📍 Hyderabad, Telangana, India</li>
+  <li>📫 chsreeja2710@gmail.com</li>
+</ul>
+
+<h2>💼 Experience</h2>
+
+<ul>
+<li>
+<b>Ei Systems Pvt Ltd — Data Science Intern (Remote)</b><br/>
+<small>May 2024 – July 2024</small>
+
+<ul>
+<li>Worked with real-world datasets using Python, Pandas, and SQL</li>
+<li>Performed data preprocessing, cleaning, and transformation</li>
+<li>Assisted in feature engineering and ML workflow development</li>
+<li>Automated preprocessing tasks using Python scripts</li>
+</ul>
+
+</li>
+</ul>
+
+</td>
+
+<td width="45%" align="center" valign="top">
+
+<br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149678.png" width="65%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChintalapalliSreeja&show_icons=true&theme=dark" width="95%" />
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-<p align="center">⭐ Star my repositories if you like them!</p>
+<h2>🚀 Generative AI Projects</h2>
+
+<h3>📄 AI Resume Assistant</h3>
+
+<b>RAG | LangChain | FastAPI | FAISS | OpenAI | Streamlit</b>
+
+<ul>
+<li>Developed a Retrieval-Augmented Generation (RAG) application that allows users to upload resumes and ask context-based questions.</li>
+
+<li>Built a document processing pipeline using PyPDF and RecursiveCharacterTextSplitter for resume extraction and chunking.</li>
+
+<li>Generated vector embeddings and stored them in FAISS for semantic similarity search.</li>
+
+<li>Integrated LangChain with an OpenAI LLM to generate responses grounded in retrieved resume content.</li>
+
+<li>Developed REST APIs using FastAPI with an interactive Streamlit frontend.</li>
+
+<li>Containerized the backend using Docker and managed source code using Git and GitHub.</li>
+</ul>
+
+---
+
+<h3>🌾 Gram AI — AI-Powered Village Assistant</h3>
+
+<b>RAG | LangChain | LangGraph | ChromaDB | OpenAI | FastAPI</b>
+
+<ul>
+<li>Developed a Generative AI-powered village assistant using Retrieval-Augmented Generation.</li>
+
+<li>Built an end-to-end RAG pipeline using LangChain, LangGraph, ChromaDB, and OpenAI.</li>
+
+<li>Implemented semantic search to retrieve relevant information from PDF, CSV, Word, and Excel documents.</li>
+
+<li>Designed the FastAPI backend for AI-powered question answering.</li>
+
+<li>Implemented multilingual interactions supporting English and Telugu.</li>
+
+<li>Explored conversation memory, voice interaction, source citations, and hybrid AI workflows.</li>
+</ul>
+
+---
+
+<h3>🎓 AI-Powered Course Recommendation System</h3>
+
+<b>Python | TF-IDF | Cosine Similarity | Django | MySQL</b>
+
+<ul>
+<li>Developed an AI-powered course recommendation platform using Python.</li>
+
+<li>Implemented TF-IDF vectorization and cosine similarity to generate personalized course recommendations.</li>
+
+<li>Designed REST APIs and role-based authentication.</li>
+
+<li>Managed application data using MySQL.</li>
+</ul>
+
+---
+
+<h2>🧠 Generative AI Skills</h2>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" />
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat" />
+
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=flat" />
+
+<img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-purple?style=flat" />
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=flat" />
+
+<img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-orange?style=flat" />
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+
+</p>
+
+---
+
+<h2>⚙️ Technical Skills</h2>
+
+<b>Generative AI:</b> LLMs, RAG, Prompt Engineering, AI Agents, Tool Calling, Function Calling
+
+<br><br>
+
+<b>Frameworks:</b> LangChain, LangGraph, FastAPI, Streamlit
+
+<br><br>
+
+<b>Vector Databases:</b> FAISS, ChromaDB
+
+<br><br>
+
+<b>AI Concepts:</b> Embeddings, Semantic Search, Vector Similarity, Chunking, Retrieval
+
+<br><br>
+
+<b>Machine Learning:</b> Scikit-learn, Pandas, NumPy, TF-IDF, Cosine Similarity
+
+<br><br>
+
+<b>Programming:</b> Python
+
+<br><br>
+
+<b>Developer Tools:</b> Git, GitHub, Docker, VS Code
+
+---
+
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChintalapalliSreeja&show_icons=true&theme=dark" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChintalapalliSreeja&layout=compact&theme=dark" width="40%" />
+
+</p>
+
+---
+
+<h2>🎯 Current Focus</h2>
+
+<ul>
+<li>🤖 Building production-ready RAG applications</li>
+<li>🧠 Learning advanced LangGraph and AI Agent workflows</li>
+<li>🔍 Improving retrieval quality and semantic search</li>
+<li>⚡ Building Generative AI applications with FastAPI</li>
+<li>🐳 Learning deployment and containerization using Docker</li>
+<li>💼 Preparing for Generative AI Engineer opportunities</li>
+</ul>
+
+---
+
+<p align="center">
+  <b>💡 Building intelligent applications with Generative AI, RAG & LLMs</b>
+</p>
+
+<p align="center">
+⭐ Explore my repositories and feel free to connect with me!
+</p>
+```
